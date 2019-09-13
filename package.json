@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KylaM26/WeatherApp/issues"
   },
-  "homepage": "https://github.com/KylaM26/WeatherApp#readme"
+  "homepage": "https://github.com/KylaM26/WeatherApp#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
